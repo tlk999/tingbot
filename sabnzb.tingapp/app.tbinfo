@@ -1,0 +1,8 @@
+{
+    "name": "SABnzb Status",
+    "author": "TLK999",
+    "caption": "Just a little Tingbot app for viewing status of SABnzb",
+    "version": "1.0",
+    "website": "",
+    "background_color": "FFFF00"
+}
