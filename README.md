@@ -6,3 +6,5 @@ This is my Tingbot Repo, just for playing and testing apps with Tingbot (http://
 This is for SABnzb Status, it will display the status of your SABnzb just a basic display.
 
 Need to put your settings in the settings.json file needs IP, PORT and APIkey.
+
+Thanks to <a href='https://github.com/WhistleMaster/tingbot-apps'>WhistleMaster</a> whos this code is based off :)
