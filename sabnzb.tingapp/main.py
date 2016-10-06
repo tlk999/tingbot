@@ -1,5 +1,5 @@
 # coding: utf-8
-# v1.0
+# v1.0.1
 
 import tingbot
 from tingbot import *
@@ -46,7 +46,7 @@ def showMain():
     )
     
     screen.text(
-        'SABznb Status',
+        'SABnzb Status',
         xy=(160, 15),
         align='center',
         color='white',
